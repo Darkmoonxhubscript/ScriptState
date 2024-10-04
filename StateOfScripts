@@ -1,6 +1,6 @@
 return {
-   ["UnderGroundWar"] = "true",
+   ["UnderGroundWar"] = "false",
    ["BrookHavenRP"] = "true",
    ["CreeperSurvival"] = "true",
-   ["PiggyVersion1"] = "true"
+   ["PiggyScriptOne"] = "true"
 }
