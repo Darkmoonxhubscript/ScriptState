@@ -1,5 +1,6 @@
 return {
    ["UnderGroundWar"] = "true",
    ["BrookHavenRP"] = "true",
-   ["CreeperSurvival"] = "true"
+   ["CreeperSurvival"] = "true",
+   ["Piggy"] = "true"
 }
