@@ -3,5 +3,6 @@ return {
    ["BrookHavenRP"] = "true",
    ["CreeperSurvival"] = "true",
    ["PiggyScriptOne"] = "true",
-   ["BreakIn"] = "true"
+   ["BreakIn"] = "true",
+   ["BreakIn2"] = "true"
 }
