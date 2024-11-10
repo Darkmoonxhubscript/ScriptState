@@ -4,5 +4,6 @@ return {
    ["CreeperSurvival"] = "true",
    ["PiggyScriptOne"] = "true",
    ["BreakIn"] = "true",
-   ["BreakIn2"] = "true"
+   ["BreakIn2"] = "true",
+   ["SurviveTheKiller"] = "true"
 }
