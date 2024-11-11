@@ -6,5 +6,5 @@ return {
    ["BreakIn"] = "true",
    ["BreakIn2"] = "true",
    ["SurviveTheKiller"] = "true",
-   ["BloxFruitsSea1"] = "true"
+   ["MemeSea"] = "true"
 }
