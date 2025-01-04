@@ -1,11 +1,5 @@
 return {
    ["UnderGroundWar"] = "true",
    ["BrookHavenRP"] = "true",
-   ["CreeperSurvival"] = "true",
-   ["PiggyScriptOne"] = "true",
-   ["BreakIn"] = "true",
-   ["BreakIn2"] = "true",
-   ["SurviveTheKiller"] = "true",
-   ["MemeSea"] = "true",
-   ["TheDonationGame"] = "true"
+   ["HideSeekEXTREME"] = "true"
 }
