@@ -1,5 +1,6 @@
 return {
    ["UnderGroundWar"] = "true",
    ["BrookHavenRP"] = "true",
-   ["HideSeekEXTREME"] = "true"
+   ["HideSeekEXTREME"] = "true",
+   ["GLRL"] = "true"
 }
